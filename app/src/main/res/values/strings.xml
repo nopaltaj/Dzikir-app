@@ -1,0 +1,187 @@
+<resources>
+    <string name="app_name">Doa &amp; Dzikir App</string>
+
+    <string name="txt_judul_fitur">Kumpulan Doa &amp; Dzikir Sehari-Hari</string>
+    <string name="txt_sunnah_qauliyah">Sunnah-Sunnah Qauliyah \nDzikir &amp; Doa Shalat</string>
+    <string name="txt_dzikir_setiap_saat">Dzikir Setiap Saat</string>
+    <string name="txt_dzikir_doa_harian">Dzikir &amp; Doa Harian</string>
+    <string name="txt_dzikir_pagi_petang"><![CDATA[Dzikir Pagi & Petang]]></string>
+
+    <string name="txt_artikel_islami">Artikel Islami</string>
+
+    <string name="txt_dzikir_pagi">Dzikir Pagi</string>
+    <string name="txt_dzikir_petang">Dzikir Petang</string>
+
+    <string name="content_txt_icon_dzikir_pagi_petang">Icon Dzikir Pagi Petang</string>
+    <string name="content_txt_icon_dzikir_doa_harian">Icon Dzikir Doa Harian</string>
+    <string name="content_txt_icon_dzikir_setiap_saat">Icon Dzikir Setiap Saat</string>
+    <string name="content_txt_icon_qauliyah_shalat">Icon Qauliyah Shalat</string>
+    <string name="content_txt_icon_btn_dzikir_pagi">Icon btn dzikir Pagi</string>
+    <string name="content_txt_icon_btn_dzikir_petang">Icon btn Dzikir Petang</string>
+    <string name="content_txt_icon_image_for_background_dzikir">Icon image for Background Dzikir</string>
+    <string name="content_txt_image_artikel">Image Poster Detail Artikel</string>
+
+    <string-array name="arr_img_artikel">
+        <item>@drawable/artikel_1</item>
+        <item>@drawable/artikel_12</item>
+        <item>@drawable/art3</item>
+        <item>@drawable/art4</item>
+        <item>@drawable/art5</item>
+        <item>@drawable/art6</item>
+
+    </string-array>
+
+    <string-array name="arr_title_artikel">
+        <item>Sedekah Adalah Bukti Keimanan</item>
+        <item>Jika Melihat Orang Terkena Musibahl</item>
+        <item>
+Pola Asuh Anak dalam Agama Islam</item>
+        <item>
+Etika Pergaulan Dalam Islam</item>
+        <item>Kisah Nabi Syits AS</item>
+        <item>Kunci Menghadapi Tantangan Hidup di Dunia</item>
+
+    </string-array>
+
+    <string-array name="arr_desc_artikel">
+        <item>Salah satu cara kita mengetahui kadar keimanan kita adalah dengan melihat apakah kita suka bersedekah atau tidak. Bersedekah tidak harus banyak dan tidak harus dengan uang, sehingga tidak kaya atau tidak punya uang bukanlah menjadi alasan kita untuk tidak bersedekah. Bersedekah dengan uang Rp 10.000, Rp 20.000, atau Rp 50.000 itu sudah cukup. Atau bersedekah dengan beras yang kita miliki sebanyak satu kilo atau dua kilo, ini pun sudah cukup. Sedekah adalah bukti keimanan. Bukti keimanan kita terhadap hari akhir, bahwasanya kelak di hari kiamat kita akan mendapat balasan pahala dari Allah, meskipun di dunia kita tidak mendapatkan apa-apa. Kita lelah bekerja mencari uang dan harta, lalu uang tersebut kita berikan tanpa kompensasi dan kita hanya berharap balasan di hari kiamat kelak.</item>
+        <item>عَنْ أَبِي هُرَيْرَةَ رضي الله عنه قَالَ: قَالَ رَسُولُ اللهِ صلى الله عليه وسلم: «مَنْ رَأَى مُبْتَلًى فَقَالَ: الحَمْدُ للهِ الَّذِي عَافَانِي مِمَّا ابْتَلَاكَ بِهِ وَفَضَّلَنِي عَلَى كَثِيرٍ مِمَّنْ خَلَقَ تَفْضِيلًا لَمْ يُصِبْهُ ذَلِكَ الْبَلَاءُ»
+\n
+Dari Abu Hurairah Radhiyallahu anhu berkata, Rasulullah shallallahu alaihi wasallam bersabda, “Barangsiapa melihat orang yang tertimpa musibah kemudian mengucapkan, ‘Segala puji bagi Allah yang telah menyelamatkanku dari musibah yang diberikan kepadamu dan melebihkanku atas kebanyakan orang yang Dia ciptakan’, maka ia tidak tertimpa musibah tersebut.” (HR. at-Tirmidzi dengan sanad hasan)
+\n
+Kandungan hadits secara global:
+\n
+Hendaknya bagi seseorang yang melihat orang lain yang tertimpa musibah baik dari segi agamanya berupa kebid’ahan maupun yang lainnya atau dari segi dunianya berupa penyakit atau yang lainnya, dia mengucapkan,
+\n
+الحَمْدُ للهِ الَّذِي عَافَانِي مِمَّا ابْتَلَاكَ بِهِ، وَفَضَّلَنِي عَلَى كَثِيرٍ مِمَّنْ خَلَقَ تَفْضِيلًا
+\n
+Barangsiapa yang mengucapkan doa tersebut, dirinya tidak akan tertimpa musibah yang ia lihat.
+\n
+Faidah:
+\n
+Sepatutnya doa ini diucapkan secara pelan, sehingga yang mendengar hanyalah dirinya, orang yang tertimpa musibah tersebut tidak mendengarnya, supaya tidak menyakiti hati orang yang tertimpa musibah, kecuali musibah tersebut berupa kemaksiatan, maka tidak mengapa mepperdengarkan doa tersebut, sebagai bentuk peringatan baginya jika hal tersebut sekiranya tidak menimbulkan kemudharatan (bahaya).</item>
+        <item>Pola asuh anak adalah hal yang sangat penting dalam pengembangan dan pembentukan karakter mereka. Dalam agama Islam, pola asuh anak memiliki landasan yang kuat, karena Islam memandang anak sebagai amanah yang diberikan oleh Allah kepada orang tua. Oleh karena itu, dalam artikel ini, kita akan menjelajahi prinsip-prinsip dan pedoman dalam pola asuh anak dalam Islam, yang bertujuan untuk menjalin kasih sayang dan menginspirasi pertumbuhan berkualitas pada anak-anak kita.
+\n
+1. Tanggung Jawab Orang Tua sebagai Pemimpin Rohani:\n
+Dalam Islam, orang tua memiliki tanggung jawab besar sebagai pemimpin rohani bagi anak-anak mereka. Mereka harus memberikan contoh yang baik dalam perilaku, agama, dan etika, sehingga anak-anak dapat mengambil teladan yang positif. Dalam pola asuh Islam, penting untuk memastikan bahwa anak-anak mendapatkan pendidikan agama yang kuat, termasuk pengajaran tentang ajaran Islam, doa, dan akhlak yang baik.
+\n
+2. Kasih Sayang dan Perhatian:\n
+Kasih sayang dan perhatian merupakan inti dari pola asuh anak dalam Islam. Rasulullah Muhammad SAW menunjukkan rasa kasih sayang yang luar biasa terhadap anak-anak, dan mengajarkan kepada umatnya untuk menyayangi dan memperlakukan mereka dengan lembut. Orang tua Muslim harus meluangkan waktu untuk bermain, berbicara, dan mendengarkan anak-anak mereka. Memberikan perhatian yang mencerminkan cinta dan penghargaan dapat memperkuat ikatan emosional antara orang tua dan anak.
+\n
+3. Pembelajaran melalui Teladan:\n
+Anak-anak cenderung meniru perilaku orang dewasa di sekitar mereka. Oleh karena itu, orang tua harus menjaga sikap dan perilaku yang baik. Dalam pola asuh Islam, orang tua harus menjadi teladan yang baik dalam segala aspek kehidupan, termasuk kejujuran, kerendahan hati, kesabaran, dan keadilan. Dengan memberikan teladan yang baik, orang tua dapat membantu membentuk karakter dan moralitas anak-anak.
+\n
+4. Pendidikan yang Seimbang:\n
+Pola asuh Islam juga menekankan pentingnya pendidikan yang seimbang antara pengetahuan agama dan pengetahuan dunia. Anak-anak perlu diberikan pendidikan yang baik dalam ajaran Islam, seperti mempelajari Al-Quran, hadis, dan sejarah Islam. Namun, mereka juga harus diberikan pendidikan yang komprehensif dalam ilmu pengetahuan, bahasa, seni, dan keterampilan lainnya agar dapat berfungsi sebagai individu yang berkontribusi pada masyarakat.
+\n
+5. Disiplin yang Penuh Kasih:\n
+Disiplin dalam pola asuh anak dalam Islam harus didasarkan pada kasih sayang dan pemahaman. Rasulullah SAW menunjukkan pendekatan yang lembut dan bijaksana dalam mendidik anak-anak. Orang tua harus menggunakan disiplin yang bermanfaat, seperti memberikan penjelasan, nasihat, dan peringatan, sambil menghindari kekerasan fisik atau penghinaan yang merugikan anak secara emosional.
+\n
+Dalam pola asuh anak dalam Islam, kasih sayang, teladan yang baik, pendidikan yang seimbang, dan disiplin yang penuh kasih adalah prinsip-prinsip utama. Dengan menerapkan pedoman-pedoman ini, orang tua Muslim dapat membantu anak-anak tumbuh dan berkembang menjadi individu yang kuat secara spiritual, moral, dan intelektual. Pola asuh yang baik dalam Islam tidak hanya membentuk karakter yang baik, tetapi juga menginspirasi anak-anak untuk mencapai potensi penuh mereka dan menjadi kontributor yang baik dalam masyarakat.</item>
+        <item>
+Etika Pergaulan Dalam Islam \n
+Dalam Islam, etika bergaul atau berinteraksi dengan orang lain merupakan aspek penting dalam kehidupan sehari-hari. Islam mengajarkan prinsip-prinsip etika yang kuat untuk memandu umat Muslim dalam berinteraksi dengan sesama manusia. Berikut adalah beberapa prinsip etika bergaul dalam Islam:
+\n
+1. Kesopanan dan Sopan Santun: Islam mengajarkan pentingnya bersikap sopan, menghormati, dan menjaga tata krama dalam berinteraksi dengan orang lain. Rasulullah Muhammad SAW dikenal sebagai sosok yang sangat sopan dan santun dalam pergaulannya.
+\n
+           2.  Kejujuran: Islam menekankan pentingnya kejujuran dalam segala aspek kehidupan. Seorang Muslim diharapkan untuk selalu berbicara jujur dan memegang teguh prinsip kejujuran dalam setiap tindakan dan perkataannya.
+\n
+            3. Menghormati Hak Asasi Manusia: Islam menghormati hak asasi manusia dan mengajarkan umat Muslim untuk tidak memandang rendah atau melanggar hak-hak orang lain. Setiap individu, tanpa memandang agama, suku, atau ras, memiliki hak yang sama dalam Islam.
+\n
+            4. Keadilan: Islam mendorong umat Muslim untuk bersikap adil dalam segala hal. Ini mencakup memberikan hak-hak yang sepatutnya kepada orang lain, tidak membedakan orang berdasarkan status sosial, dan menangani konflik dengan adil dan objektif.
+\n
+            5. Kesabaran dan Pengampunan: Islam mengajarkan pentingnya kesabaran dan pengampunan dalam bergaul dengan orang lain. Seorang Muslim diharapkan untuk sabar dalam menghadapi kesulitan dan tidak cepat marah. Pengampunan juga diajarkan sebagai prinsip penting untuk menciptakan hubungan yang harmonis.
+\n
+           6. Menjaga Rahasia: Islam mengajarkan pentingnya menjaga rahasia orang lain. Seorang Muslim diharapkan untuk tidak menyebarkan gosip atau mengungkap rahasia pribadi orang lain tanpa izin.
+\n
+            7. Kerjasama dan Saling Tolong-Menolong: Islam mendorong umat Muslim untuk bekerja sama dan saling membantu dalam segala hal yang baik. Kolaborasi dan saling tolong-menolong dianjurkan agar menciptakan masyarakat yang solidaritas dan berkeadilan.
+\n
+            8. Menghindari Sifat Sombong dan Merendahkan Orang Lain: Islam melarang sifat sombong dan merendahkan orang lain. Seorang Muslim diharapkan untuk rendah hati, menghormati dan memperlakukan semua orang dengan baik tanpa memandang status sosial atau kekayaan.
+\n
+            Prinsip-prinsip etika ini adalah beberapa dari banyak ajaran Islam yang menekankan pentingnya bergaul dengan baik dan menciptakan hubungan yang sehat dan harmonis dengan sesama manusia.</item>
+        <item>Nabi Syits (Sheth) tidak disebutkan secara khusus dalam Al-Quran, tetapi dia disebutkan dalam beberapa riwayat dan tradisi yang ada dalam agama Islam. Nabi Syits adalah salah satu dari keturunan Nabi Adam AS, putra Nabi Adam dan Hawwa (Hawa), serta saudara Nabi Habil dan Qabil.
+\n
+Kisah Nabi Syits didasarkan pada riwayat-riwayat dalam kitab-kitab tafsir dan hadis. Menurut tradisi Islam, Nabi Syits adalah nabi dan rasul yang diutus oleh Allah untuk menyampaikan petunjuk-Nya kepada umat manusia. Dia dianggap sebagai salah satu nabi yang termasuk dalam silsilah kenabian.
+\n
+Salah satu riwayat yang populer mengenai Nabi Syits adalah tentang peristiwa di mana Nabi Adam AS mewasiatkan kepemimpinan dan pengetahuan kepada Nabi Syits sebelum kematiannya. Setelah kematian Nabi Adam, Nabi Syits melanjutkan misi kenabiannya dengan mengajarkan ajaran tauhid kepada umat manusia.
+\n
+Namun, informasi terperinci mengenai kisah kehidupan Nabi Syits sangat terbatas dan tidak banyak diketahui. Kisah-kisah yang lebih rinci dan legendaris tentang Nabi Syits dapat ditemukan dalam literatur-literatur Islam non-kanonik, seperti Taurat Tafsir dan Hadis, yang mengandung berbagai cerita dan legenda yang berkaitan dengan kehidupannya.
+\n
+Penting untuk diingat bahwa sebagai seorang nabi dan rasul, Nabi Syits dihormati dalam tradisi Islam, tetapi detail mengenai kehidupannya yang spesifik dan peristiwa-peristiwa yang terjadi selama hidupnya mungkin tidak diketahui secara pasti. Oleh karena itu, ketepatan dan akurasi kisah-kisah tersebut dapat bervariasi antara sumber-sumber yang berbeda.</item>
+        <item>Dalam kehidupan ini, kita seringkali dihadapkan pada berbagai tantangan dan kesulitan. Baik itu dalam karier, hubungan, kesehatan, atau keuangan, setiap orang pasti pernah merasakan momen-momen sulit. Namun, ada dua sikap yang sangat penting untuk dimiliki dalam menghadapi tantangan tersebut, yaitu sabar dan bersyukur. Dalam artikel ini, kita akan menjelajahi arti sabar dan bersyukur, serta mengapa kedua sikap ini begitu berharga dalam menghadapi perjalanan hidup.
+\n
+\n 1. Sabar: Mengendalikan Emosi dan Menjaga Ketenangan Sabar merupakan sikap yang melibatkan kesabaran, ketenangan, dan pengendalian diri dalam menghadapi cobaan atau situasi sulit. Saat menghadapi masalah, sabar membantu kita untuk tidak mudah putus asa atau terjebak dalam emosi negatif. Dengan sabar, kita dapat mempertahankan pikiran yang jernih, menganalisis situasi dengan baik, dan menemukan solusi yang tepat. Dalam keadaan sulit, sabar juga membantu kita menghadapi proses yang mungkin membutuhkan waktu dan usaha ekstra untuk mencapai hasil yang diinginkan.
+\n 2. Bersyukur: Menghargai Segala Kondisi dan Nikmat yang Ada Bersyukur adalah sikap yang melibatkan penghargaan dan pengakuan terhadap apa yang kita miliki dan alami dalam hidup. Terkadang, dalam menghadapi kesulitan, kita cenderung fokus pada apa yang hilang atau belum tercapai. Namun, dengan bersyukur, kita belajar untuk mengalihkan perhatian kita pada hal-hal positif yang sudah ada di sekitar kita. Menghargai nikmat kecil sehari-hari membantu kita melihat bahwa kehidupan ini memiliki banyak hal yang layak disyukuri, meskipun dalam kondisi sulit sekalipun. Dengan bersyukur, kita bisa merasakan kedamaian dan kebahagiaan meski di tengah kesulitan.
+\n 3. Pentingnya Sabar dan Bersyukur dalam Kehidupan Sabar dan bersyukur memiliki peran penting dalam membentuk sikap dan mentalitas kita terhadap hidup. Keduanya membantu kita menghadapi tantangan dengan kepala tegak dan hati yang lapang. Dengan sabar, kita belajar untuk bersikap tenang dan tidak terburu-buru dalam mengambil keputusan. Sabar juga membantu kita menghadapi kegagalan atau kegagalan sementara dengan sikap positif dan tekad yang kuat.
+\n 4. Sementara itu, bersyukur memungkinkan kita melihat hidup dengan perspektif yang lebih luas dan menghindari jatuh ke dalam sikap serba kurang puas. Dengan bersyukur, kita lebih mampu menghargai setiap peristiwa kecil yang membentuk hidup kita dan mengambil pelajaran dari setiap pengalaman.
+\n
+Sabar dan bersyukur adalah dua sikap yang saling melengkapi dan membantu kita menghadapi berbagai tantangan dalam hidup. Dengan sabar, kita dapat menjaga ketenangan dan mengendalikan emosi saat menghadapi cobaan. Sementara itu, dengan bersyukur, kita bisa melihat hidup dengan cara yang lebih positif dan menghargai nikmat kecil yang kita miliki. Dengan memadukan kedua sikap ini, kita dapat menciptakan mentalitas yang kuat dan mampu mengatasi segala rintangan yang mungkin muncul dalam perjalanan hidup kita.</item>
+
+    </string-array>
+
+    <string-array name="arr_dzikir_doa_harian">
+        <item>Sebelum tidur</item>
+        <item>Ketika mimpi buruk</item>
+        <item>Bangun tidur</item>
+        <item>Masuk WC/kamar mandi</item>
+        <item>Keluar WC/kamar mandi</item>
+        <item>Sebelum wudhu</item>
+        <item>Setelah wudhu</item>
+        <item>Mengenakan pakaian</item>
+        <item>Melepas pakaian</item>
+        <item>Keluar rumah</item>
+        <item>Masuk rumah</item>
+        <item>Pergi ke Masjid</item>
+        <item>Masuk ke Masjid</item>
+        <item>Keluar dari Masjid</item>
+        <item>Ketika mendengar Adzan</item>
+        <item>Setelah adzan</item>
+        <item>Bersin</item>
+        <item>Kepada orang yang berbuat baik kepadamu</item>
+        <item>Ketika marah</item>
+    </string-array>
+
+    <string-array name="arr_lafaz_dzikir_doa_harian">
+        <item>Mengumpulkan dua telapak tangan, lalu ditiup dan dibacakan:\n\nSurat Al-Ikhlas:\nبِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ \nقُلْ هُوَ اللَّهُ أَحَدٌ ﴿١﴾ اللَّهُ الصَّمَدُ ﴿٢﴾ لَمْ يَلِدْ وَلَمْ يُولَدْ ﴿٣﴾ وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ ﴿٤﴾ \n\nSurat Al-Falaq:\nبِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ \nقُلْ اَعُوْذُ بِرَبِّ الْفَلَقِۙ ﴿١﴾ مِنْ شَرِّ مَا خَلَقَۙ ﴿٢﴾ وَمِنْ شَرِّ غَاسِقٍ اِذَا وَقَبَۙ ﴿٣﴾ وَمِنْ شَرِّ النَّفّٰثٰتِ فِى الْعُقَدِۙ ﴿٤﴾ وَمِنْ شَرِّ حَاسِدٍ اِذَا حَسَدَ ﴿٥﴾ \n\nAn-Naas:\nبِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ \nقُلْ اَعُوْذُ بِرَبِّ النَّاسِۙ ﴿١﴾ مَلِكِ النَّاسِۙ ﴿٢﴾ اِلٰهِ النَّاسِۙ ﴿٣﴾ مِنْ شَرِّ الْوَسْوَاسِ ەۙ الْخَنَّاسِۖ ﴿٤﴾ الَّذِيْ يُوَسْوِسُ فِيْ صُدُوْرِ النَّاسِۙ ﴿٥﴾ مِنَ الْجِنَّةِ وَالنَّاسِ ﴿٦﴾\nAyat Kursi:\nٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ ۚ لَا تَأْخُذُهُۥ سِنَةٌ وَلَا نَوْمٌ ۚ لَّهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ مَن ذَا ٱلَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَىْءٍ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ ۚ وَسِعَ كُرْسِيُّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ ۖ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا ۚ وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ\nKetika sudah berbaring baca doa:\nاَللَّهُمَّ أَسْلَمْتُ نَفْسِيْ إِلَيْكَ، وَفَوَّضْتُ أَمْرِيْ إِلَيْكَ، وَوَجَّهْتُ وَجْهِيَ إِلَيْكَ، وَأَلْجَأْتُ ظَهْرِيْ إِلَيْكَ، رَغْبَةً وَرَهْبَةً إِلَيْكَ، لاَ مَلْجَأَ وَلاَ مَنْجَا مِنْكَ إِلاَّ إِلَيْكَ، آمَنْتُ بِكِتَابِكَ الَّذِيْ أَنْزَلْتَ وَبِنَبِيِّكَ الَّذِيْ أَرْسَلْتَ\n\nبِاسْمِكَ رَبِّيْ وَضَعْتُ جَنْبِيْ، وَبِكَ أَرْفَعُهُ، فَإِنْ أَمْسَكْتَ نَفْسِيْ فَارْحَمْهَا، وَإِنْ أَرْسَلْتَهَا فَاحْفَظْهَا بِمَا تَحْفَظُ بِهِ عِبَادَكَ الصَّالِحِيْنَ</item>
+        <item>Membaca isti\'adzah:\nأَعُوذُ بِاَللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِْ\nlalu meludah tipis (meniup disertai sedikit liur) ke sebelah kirinya sebanyak tiga kali.\nDemikian juga merubah posisi tidur. Bahkan dianjurkan untuk bangun dan shalat.</item>
+        <item>الحَمْدُ ِللهِ الَّذِي أَحْيَاناَ بَعْدَ مَا أَمَاتَنَا وَ إِلَيْهِ النُّشُوْرُ</item>
+        <item>اللَّهُمَّ إِنِّى أَعُوذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَائِثِ</item>
+        <item>غُفْرَانَكَ</item>
+        <item>بسم الله</item>
+        <item>Pertama:\nأَشْهَدُ أَنْ لاَ إِلهَ إِلاَّ اللهُ وَحْدَهُ لاَ شَرِيْكَ لَهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ\n\nKedua:\nسُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لاَ إِلَـهَ إِلاَّ أَنْتَ، أَسْتَغْفِرُكَ وَأَتُوْبُ إِلَيْكَ</item>
+        <item>اَلْحَمْدُ لِلَّهِ الَّذِيْ كَسَانِيْ هَذَا الثَّوْبَ وَرَزَقَنِيْهِ مِنْ غَيْرِ حَوْلٍ مِنِّيْ وَلَا قُوَّةٍ</item>
+        <item>بسم الله</item>
+        <item>بِسْمِ اللهِ تَوَكَّلْتُ عَلَى اللهِ لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ</item>
+        <item>Pertama:\nبسم الله\n\Kedua:\nالسلام عليكم</item>
+        <item>اللّهُمَّ اجْعَلْ فِي قَلْبِيْ نُوْراً، وَفِي لِسَانِي نُوْراً، وَاجْعَلْ وَفِي سَمْعِي نُوْراً، وَاجْعَلْ فِي بَصَرِي نُوْراً، وَاجْعَلْ مِنْ خَلْفِي نُوْراً، وَمِنْ أَمَامِي نُوْراً، وَاجْعَلْ مِنْ فَوْقِي نُوْراً، وَمِنْ تَحْتِي نُوْراً، اللّهُمَّ أَعْطِنِي نُوْراً</item>
+        <item>Pertama:\nاللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ\n\nKedua:\nوَالصَّلَاةُ وَالسَّلاَمُ عَلَى رَسُولِ اللهِ اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ\n\nKetiga:\nأَعُوذُ بِاللَّهِ الْعَظِيمِ، وَبِوَجْهِهِ الْكَرِيمِ، وَسُلْطَانِهِ الْقَدِيمِ، مِنَ الشَّيْطَانِ الرَّجِيمِ</item>
+        <item>اللَّهُمَّ إِنِّيْ أَسْأَلُكَ مِنْ فَضْلِكَ</item>
+        <item>Seseorang yang mendengarkan adzan, hendaklah mengucapkan sebagaimana yang diucapkan oleh muadzin, kecuali dalam kalimat:\nHayya \'alash shalaah\n\ndan\n\nHayya \'alal falaah. Maka mengucapkan:\nلاحول ولا قوة الا بالله</item>
+        <item>اللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ ، وَالصَّلاَةِ القَائِمَةِ آتِ مُحَمَّدًا الوَسِيلَةَ وَالفَضِيلَةَ، وَابْعَثْهُ مَقَامًا مَحْمُودًا الَّذِي وَعَدْتَهُ</item>
+        <item>Yang bersin mengucapkan:\nالحمد لله\nYang mendengar hamdalah mengucapkan:\nيَرْحَمُكَ اللهُ\nBila teman atau saudaranya mengucapkan (yarhamukallah), maka yang bersin membalas dengan:\nيَهْدِيْكُمُ اللهُ وَيُصْلِحُ بَالَكُمْ</item>
+        <item>جزاك الله خيراً</item>
+        <item>أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ</item>
+    </string-array>
+
+    <string-array name="arr_terjemah_dzikir_doa_harian">
+        <item>Surat Al-Ikhlas:\n\"Katakanlah: Dialah Allah Yang Maha Esa. Allah adalah ilah yang bergantung kepada-Nya segala urusan. Dia tidak beranak dan tiada pula diperanakkan. Dan tidak ada seorang pun yang setara dengan Dia.\"\n\nSurat Al-Falaq:\n\"Katakanlah: Aku berlindung kepada Rabb yang menguasai Subuh. Dari kejahatan makhluk-Nya. Dan dari kejahatan malam apabila telah gelap gulita. Dan dari kejahatan wanita-wanita tukang sihir yang menghembus pada buhul-buhul. Dan dari kejahatan orang yang dengki apabila ia dengki.\"\n\nAn-Naas:\n\"Katakanlah: Aku berlindung kepada Rabb manusia. Raja manusia. Sembahan manusia. Dari kejahatan (bisikan) syaitan yang biasa bersembunyi. Yang membisikkan (kejahatan) ke dalam dada manusia. Dari jin dan manusia.\"\n\nAyat Kursi:\n\"Allah, tidak ada sesembahan yang berhak disembah kecuali Dia Yang Hidup Kekal lagi terus-menerus mengurus (makhluk-Nya). Tidak mengantuk dan tidak tidur. Kepunyaan-Nya apa yang di langit dan di bumi. Siapakah yang dapat memberi syafa\'at di sisi Allah tanpa izin-Nya? Allah mengetahui apa-apa yang dia hadapan dan di belakang mereka, dan mereka tidak mengetahui apa-apa ilmu Allah melainkan apa yang dikehendaki-Nya. Kursi Allah melliputi langit dan bumi, dan Allah tidak merasa berat memelihara keduanya. Dan Allah Maha Tinggi lagi Maha Besar.\"\n\nKetika sudah berbaring baca doa:\n\"Ya Allah, aku serahkan jiwaku kepada-mu, aku hadapkan wajahku kepada-Mu, aku serahkan urusanku kepada-Mu, aku sandarkan punggungku kepada-Mu, karena mengharapkan (pahala-Mu) dan takut (adzab-Mu). Tiada tempat bersandar dan menyelamatkan diri dari (hukuman)-Mu kecuali kepada-Mu. Aku beriman kepada Kitab-Mu yang Engkau turunkan, dan kepada Nabi-Mu yang Engkau utus.\"\n\n\"Dengan nama Engkau, wahai Rabbku, aku meletakkan lambungku. Dan dengan nama-Mu pula aku bangun dari padanya. Apabila Engkau menahan rohku maka berilah rahmat padanya. Tapi apabila Engkau melepaskannya maka peliharalah, sebagaimana Engkau memelihara hamba-hambaMu yang shalih.\"</item>
+        <item>\"Aku memohon perlindungan kepada Allah dari setan yang terkutuk.\"</item>
+        <item>\"Segala puji bagi Allah, yang membangunkan kami setelah ditidurkanNya dan kepadaNya kami dikumpulkan.\"</item>
+        <item>\"Dengan nama Allah. Ya Allah, sesungguhnya aku berlindung kepada-Mu dari keburukan dan jin.\"</item>
+        <item>\"Aku minta ampun kepadaMu.\"</item>
+        <item>\"Dengan nama Allah (aku berwudhu).\"</item>
+        <item>Pertama:\n\"Aku bersaksi, bahwa tidak ada sesembahan yang berhak disembah kecuali Allah, Yang Maha Esa dan tiada sekutu bagiNya. Aku bersaksi, bahwa Muhammad adalah hamba dan utusanNya.\"\n\nKedua:\n\"Maha Suci Engkau ya Allah, aku memujiMu. Aku bersaksi bahwa tidak ada sesembahan yang berhak disembah kecuali Engkau, aku minta ampun dan betaubat kepada-Mu.\"</item>
+        <item>\"Segala puji bagi Allah yang memberi pakaian ini kepadaku sebagai rezeki dariNya tanpa daya dan kekuatan dariku.\"</item>
+        <item>\"Dengan nama Allah (aku meletakkan baju).\"</item>
+        <item>\"Dengan nama Allah, aku bertawakkal kepada Allah, tiada daya dan kekuatan kecuali dengan pertolongan Allah.\"</item>
+        <item>Pertama:\n\"Dengan nama Allah.\"\n\n\Kedua:\n\"Semoga keselamatan atas kalian.\"</item>
+        <item>\"Ya Allah, jadikanlah cahaya di hatiku, cahaya di lidahku, cahaya di pendengaranku, cahaya di penglihatanku, cahaya dari belakangku, cahaya dari hadapanku, cahaya dari atasku, cahaya dari bawahku. Ya Allah, berilah aku cahaya.\"</item>
+        <item>Pertama:\n\"Ya Allah, bukalah pintu-pintu rahmatMu untukku.\"\n\nKedua:\n\"Semoga shalawat dan salam terlimpahkan kepada Rasulullah. Ya Allah, bukalah pintu-pintu rahmatMu untukku.\"\n\nKetiga:\n\"Aku berlindung kepada Allah Yang Maha Agung, dengan wajah-Nya Yang Mulia dan kekuasaan-Nya yang abadi, dari setan yang terkuturk.\" </item>
+        <item>\"Ya Allah, sesungguhnya aku minta kepadaMu dari karuniaMu.\"</item>
+        <item>\"Tidak ada daya dan upaya kecuali dengan pertolongan Allah\"</item>
+        <item>\"Ya Allah, Rabb Pemilik panggilan yang sempurna (adzan) ini dan shalat (wajib) yang didirikan. Berilah Al-Wasilah (derajat di Surga, yang tidak akan diberikan selain kepada Nabi) dan fadhilah kepada Muhammad. Dan bangkitkan beliau sehingga bisa menempati maqam terpuji yang telah Engkau janjikan.\"</item>
+        <item>(Alhamdulillah) artinya:\n\"Segala puji bagi Allah.\"\n\n(Yarhamukallah) artinya:\n\"Semoga Allah memberikan rahmat kepadamu.\"\n\n\"(Yahdiikumullaahu wa yushlihu baalakum) artinya:\n\"Semoga Allah memberi petunjuk kepadamu dan memperbaiki keadaanmu.\"</item>
+        <item>\"Semoga Allah membalasmu dengan kebaikan.\"</item>
+        <item>\"Aku berlindung kepada Allah dari godaan syaitan yang terkutuk.\"</item>
+    </string-array>
+</resources>
